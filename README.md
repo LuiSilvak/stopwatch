@@ -33,10 +33,10 @@ python stopwatch.py
 
 3. Utilize os comandos para interagir com o cronômetro:
 
-- [I]: Iniciar
-- [P]: Pausar
-- [R]: Reiniciar
-- [S]: Sair
+[I]: Iniciar
+[P]: Pausar
+[R]: Reiniciar
+[S]: Sair
 
 
 ## Exemplo de Execução

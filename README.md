@@ -33,28 +33,28 @@ python stopwatch.py
 
 3. Utilize os comandos para interagir com o cronômetro:
 
-[I]: Iniciar
-[P]: Pausar
-[R]: Reiniciar
-[S]: Sair
+**[I]: Iniciar**
+**[P]: Pausar**
+**[R]: Reiniciar**
+**[S]: Sair**
 
 
 ## Exemplo de Execução
-    ```bash
-    === Cronômetro ===
-    Comandos:
-    [I] Iniciar
-    [P] Pausar
-    [R] Reiniciar
-    [S] Sair
+```bash
+=== Cronômetro ===
+Comandos:
+[I] Iniciar
+[P] Pausar
+[R] Reiniciar
+[S] Sair
 
-    Digite um comando: I
-    Tempo: 1 segundos
-    Tempo: 2 segundos
-    Tempo: 3 segundos
-    # Pressione Ctrl+C para pausar.
-    Pausado. Pressione [R] para reiniciar ou [S] para sair.
-    ```
+Digite um comando: I
+Tempo: 1 segundos
+Tempo: 2 segundos
+Tempo: 3 segundos
+# Pressione Ctrl+C para pausar.
+Pausado. Pressione [R] para reiniciar ou [S] para sair.
+```
 
 
 ## Melhorias Futuras
